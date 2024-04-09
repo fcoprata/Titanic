@@ -1,0 +1,32 @@
+# Arquivos gerados pelo ambiente virtual
+env/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos gerados pelo IDE
+.idea/
+.vscode/
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+*.cache/
+
+# Arquivos de configuração
+*.ini
+*.cfg
+
+# Arquivos de build
+build/
+dist/
+*.egg-info/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
